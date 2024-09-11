@@ -1,0 +1,4 @@
+﻿  8.cpp
+C:\Users\khach\source\repos\Khapaev\Khapaev\8.cpp(86,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\khach\source\repos\Khapaev\Khapaev\8.cpp(97,36): warning C4244: аргумент: преобразование "SOCKET" в "int", возможна потеря данных
+  Khapaev.vcxproj -> C:\Users\khach\source\repos\Khapaev\x64\Debug\Khapaev.exe
